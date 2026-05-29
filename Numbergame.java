@@ -24,7 +24,6 @@ public class NumberGuessingGame {
                     System.out.println("🎉 Correct! You guessed the number.");
                     int roundScore =  remainingAttempts + 1;
                     totalScore += roundScore;
-
                     System.out.println("⭐ Round Score: " + roundScore);
                     guessedCorrectly = true;
                     break;
