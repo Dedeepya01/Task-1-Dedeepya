@@ -44,7 +44,7 @@ Guess a number between 1 and 100
 
 You only have 5 attempts!
 
-##### Attempt 1 of 5
+Attempt 1 of 5
 
 Enter your guess: 50
 
@@ -52,7 +52,7 @@ Enter your guess: 50
  
  Remaining Attempts: 4
 
-##### Attempt 2 of 5
+Attempt 2 of 5
 
 Enter your guess: 75
 
@@ -60,7 +60,7 @@ Enter your guess: 75
  
  Remaining Attempts: 3
 
-##### Attempt 3 of 5
+Attempt 3 of 5
 
 Enter your guess: 65
 
@@ -68,7 +68,7 @@ Enter your guess: 65
  
  Remaining Attempts: 2
 
-##### Attempt 4 of 5
+Attempt 4 of 5
 
 Enter your guess: 70
 
