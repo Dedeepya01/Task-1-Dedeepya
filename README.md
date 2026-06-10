@@ -5,7 +5,7 @@ This is a simple Java Number Guessing Game project.
 The program generates a random number between 1 and 100, and the player tries to guess the correct number.
 The program accepts user input and compares the guessed number with the generated number. If the guess is higher than the actual number, the program displays “Too High”. If the guess is lower, it displays “Too Low”. The game continues until the player guesses the correct number or the number of attempts are reached.
 
-## Features
+### Features
 - Random number generation
 - User input handling
 - High/Low guess hints
@@ -13,7 +13,7 @@ The program accepts user input and compares the guessed number with the generate
 - Multiple game rounds
 - Final score display
 
-## Technologies Used
+### Technologies Used
 - Java
 - Random Class
 - Scanner Class
@@ -65,7 +65,7 @@ Enter your guess: 65
  Too low!
  Remaining Attempts: 2
 
-###### Attempt 4 of 5
+##### Attempt 4 of 5
 
 Enter your guess: 70
 
