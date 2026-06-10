@@ -3,7 +3,7 @@
 
 This is a simple Java Number Guessing Game project.
 The program generates a random number between 1 and 100, and the player tries to guess the correct number.
-The program accepts user input and compares the guessed number with the generated number. If the guess is higher than the actual number, the program displays “Too High”. If the guess is lower, it displays “Too Low”. The game continues until the player guesses the correct number or the number of attempts are reached.
+The program accepts user input and compares the guessed number with the generated number. If the guess is higher than the actual number, the program displays “**Too High**”. If the guess is lower, it displays “**Too Low**”. The game continues until the player guesses the correct number or the number of attempts are reached.
 
 ### Features
 - Random number generation
@@ -21,7 +21,7 @@ The program accepts user input and compares the guessed number with the generate
 - Conditional Statements
 
 ### How to run
-#### Using VS Code
+**Using VS Code**
 
 1. Open the project folder in VS Code.
 2. Open the file:
@@ -44,7 +44,7 @@ Guess a number between 1 and 100
 
 You only have 5 attempts!
 
-Attempt 1 of 5
+**Attempt 1 of 5**
 
 Enter your guess: 50
 
@@ -52,7 +52,7 @@ Enter your guess: 50
  
  Remaining Attempts: 4
 
-Attempt 2 of 5
+**Attempt 2 of 5**
 
 Enter your guess: 75
 
@@ -60,7 +60,7 @@ Enter your guess: 75
  
  Remaining Attempts: 3
 
-Attempt 3 of 5
+**Attempt 3 of 5**
 
 Enter your guess: 65
 
@@ -68,7 +68,7 @@ Enter your guess: 65
  
  Remaining Attempts: 2
 
-Attempt 4 of 5
+**Attempt 4 of 5**
 
 Enter your guess: 70
 
