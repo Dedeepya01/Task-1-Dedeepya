@@ -26,15 +26,15 @@ The program accepts user input and compares the guessed number with the generate
 1. Open the project folder in VS Code.
 2. Open the file:
 
-   NumberGame.java
+   **NumberGame.java**
 
 3. Compile the program:
 
-   javac NumberGame.java
+   **javac NumberGame.java**
 
 4. Run the program:
 
-   java NumberGame
+   **java NumberGame**
 
 ### Sample Output
    
